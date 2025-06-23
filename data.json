@@ -1,0 +1,114 @@
+[
+  {
+    "nombre": "King County",
+    "estado": "Georgia",
+    "coordenadas": [33.7336, -84.4857],
+    "temporadas": "T1",
+    "descripcion": "Rick despierta en el hospital, encuentra su casa vacía y conoce a Morgan."
+  },
+  {
+    "nombre": "Atlanta",
+    "estado": "Georgia",
+    "coordenadas": [33.7490, -84.3880],
+    "temporadas": "T1",
+    "descripcion": "Rick llega buscando a su familia. Encuentra a Glenn y escapa de una horda."
+  },
+  {
+    "nombre": "Campamento en las afueras de Atlanta",
+    "estado": "Georgia",
+    "coordenadas": [33.8000, -84.3500],
+    "temporadas": "T1",
+    "descripcion": "Primer campamento del grupo; mueren varios miembros por ataque zombi."
+  },
+  {
+    "nombre": "CDC",
+    "estado": "Georgia",
+    "coordenadas": [33.7912, -84.3240],
+    "temporadas": "T1E6",
+    "descripcion": "Buscan respuestas científicas; el Dr. Jenner revela la verdad del virus."
+  },
+  {
+    "nombre": "Granja de Hershel",
+    "estado": "Georgia",
+    "coordenadas": [33.2468, -84.2642],
+    "temporadas": "T2",
+    "descripcion": "El grupo encuentra refugio, pero el conflicto por Sophia y Shane escala."
+  },
+  {
+    "nombre": "Carretera de los autos abandonados",
+    "estado": "Georgia",
+    "coordenadas": [33.2938, -84.4258],
+    "temporadas": "T2",
+    "descripcion": "Sophia se pierde; primera gran búsqueda y aparición de la horda."
+  },
+  {
+    "nombre": "Prisión",
+    "estado": "Georgia",
+    "coordenadas": [33.2975, -84.4799],
+    "temporadas": "T3-T4",
+    "descripcion": "El grupo toma la prisión como base; mueren Lori, T-Dog, Hershel. Ataques del Gobernador."
+  },
+  {
+    "nombre": "Woodbury",
+    "estado": "Georgia",
+    "coordenadas": [33.3001, -84.5769],
+    "temporadas": "T3-T4",
+    "descripcion": "Comunidad liderada por el Gobernador. Andrea muere. Enfrentamiento con Rick."
+  },
+  {
+    "nombre": "Vías del tren - Terminus",
+    "estado": "Georgia",
+    "coordenadas": [33.6845, -84.4100],
+    "temporadas": "T4-T5",
+    "descripcion": "Caminan por las vías siguiendo carteles hacia Terminus. Lugar caníbal."
+  },
+  {
+    "nombre": "Iglesia del Padre Gabriel",
+    "estado": "Georgia",
+    "coordenadas": [33.4480, -84.4803],
+    "temporadas": "T5",
+    "descripcion": "Encuentran refugio temporal; conflicto con los caníbales de Terminus."
+  },
+  {
+    "nombre": "Hospital Grady Memorial",
+    "estado": "Georgia",
+    "coordenadas": [33.7640, -84.3830],
+    "temporadas": "T5",
+    "descripcion": "Beth es secuestrada; muere trágicamente tras un intento de rescate."
+  },
+  {
+    "nombre": "Alexandria Safe-Zone",
+    "estado": "Virginia",
+    "coordenadas": [38.8107, -77.0604],
+    "temporadas": "T5-T8",
+    "descripcion": "Comunidad amurallada donde Rick intenta reconstruir la civilización."
+  },
+  {
+    "nombre": "Hilltop Colony",
+    "estado": "Virginia",
+    "coordenadas": [38.4704, -77.9932],
+    "temporadas": "T6-T8",
+    "descripcion": "Nueva comunidad agrícola. Se forma alianza contra los Salvadores."
+  },
+  {
+    "nombre": "El Reino",
+    "estado": "Virginia",
+    "coordenadas": [38.3032, -77.4605],
+    "temporadas": "T7-T8",
+    "descripcion": "Comunidad teatral liderada por Ezekiel. Se une a la guerra."
+  },
+  {
+    "nombre": "Santuario",
+    "estado": "Virginia",
+    "coordenadas": [38.3933, -77.5023],
+    "temporadas": "T7-T8",
+    "descripcion": "Base industrial donde Negan domina. Enfrentamientos con Rick."
+  },
+  {
+    "nombre": "Basurero de los Scavengers",
+    "estado": "Virginia",
+    "coordenadas": [38.8304, -77.0369],
+    "temporadas": "T7-T8",
+    "descripcion": "Comunidad en un vertedero. Al principio traicionan a Rick, luego se unen."
+  }
+]

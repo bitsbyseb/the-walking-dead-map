@@ -1,0 +1,39 @@
+@font-face {
+  font-family: tungsten-black;
+  src: url("../public/fonts/tungsten-black.woff");
+}
+
+html,
+body {
+  height: 100svh;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  position: absolute;
+  top: -2rem;
+  left: 80dvh;
+  display: flex;
+  flex-direction: column;
+  font-family: tungsten-black;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  z-index: 1;
+}
+
+.title h2 {
+  font-size: 4rem;
+  margin: 0;
+  text-shadow: black 5px 5px 50px;
+}
+
+#map { 
+    height: 100%;
+    z-index: 0;
+}
+
+#map > * {
+  z-index:2;
+}
