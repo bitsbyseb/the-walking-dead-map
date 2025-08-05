@@ -18,7 +18,7 @@ class Popup extends HTMLElement {
         template.innerHTML = `
             ${this.styles}
             <h2>${this.nombre}</h2>
-            <img src="/src/public/places/${this.nombre}.webp" alt="${this.nombre}">
+            <img src="/public/places/${this.nombre}.webp" alt="${this.nombre}">
             <p>${this.descripcion}</p>
             <h3>Temporadas</h3>
             <ul>
