@@ -11,7 +11,7 @@ import "./Popup.component.js";
  * @returns {Promise<placeInfo[]>}
  */
 async function getPlacesData() {
-  const res = await fetch('../../data.json');
+  const res = await fetch('https://bitsbyseb.github.io/the-walking-dead-map/data.json');
   const data = await res.json();
   console.log(data);
   return data;
